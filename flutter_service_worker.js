@@ -14,9 +14,9 @@ const RESOURCES = {
 "icons/math-icon-192.png": "7fc2e54023ef3bff1164c67e52b309dc",
 "icons/math-icon-512.png": "5610931fe8bd7cb4b53a5aa3420cd58e",
 "icons/math-icon.png": "60cbcbbbd88def22c9fa0b3746654ba1",
-"index.html": "a58296b70f3ae6cfdbbaa5a0fb492310",
-"/": "a58296b70f3ae6cfdbbaa5a0fb492310",
-"main.dart.js": "d904adc01dadae07d4763214e752c45e",
+"index.html": "f4d12bad622932ff70ff76cad5b37724",
+"/": "f4d12bad622932ff70ff76cad5b37724",
+"main.dart.js": "3fb3e839b2faf71e25409a8b12bfaf84",
 "manifest.json": "85df534847889e5d351cb2fb95d53b73",
 "version.json": "e5f52e5f586620dc7ddbacdfe0d5d0b8"
 };
